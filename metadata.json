@@ -1,0 +1,8 @@
+{
+  "name": "Erkan Mobilya",
+  "description": "Antalya Döşemealtı merkezli özel tasarım mobilya, mutfak dolabı, CNC üretim ve iç mimari çözümler sunan Erkan Mobilya kurumsal web sitesi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
